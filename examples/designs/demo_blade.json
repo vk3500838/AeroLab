@@ -1,0 +1,34 @@
+{
+  "diameter_m": 0.254,
+  "hub_diameter_m": 0.0254,
+  "blade_count": 2,
+  "rpm": 8000,
+  "radial_fraction": [
+    0.15,
+    0.35,
+    0.55,
+    0.75,
+    0.95
+  ],
+  "chord_m": [
+    0.02,
+    0.03,
+    0.03,
+    0.022,
+    0.01
+  ],
+  "twist_deg": [
+    35,
+    27,
+    20,
+    13,
+    7
+  ],
+  "airfoil_names": [
+    "Demo",
+    "Demo",
+    "Demo",
+    "Demo",
+    "Demo"
+  ]
+}
